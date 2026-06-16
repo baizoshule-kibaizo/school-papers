@@ -1,0 +1,22 @@
+{
+  "Accountancy": "1AbCdEfGhIjKlMn",
+  "Advanced Mathematics": "1XyZaBcDeFgHiJk",
+  "Agriculture": "1PqRsTuVwXyZaBc",
+  "Arabic": "1LmNoPqRsTuVwXy",
+  "Basic Applied Mathematics": "1GhIjKlMnOpQrSt",
+  "Biology": "1BiologyFileId",
+  "Chemistry": "1ChemistryFileId",
+  "Commerce": "1CommerceFileId",
+  "Computer Science": "1ComputerScienceFileId",
+  "Divinity": "1DivinityFileId",
+  "Economics": "1EconomicsFileId",
+  "English": "1EnglishFileId",
+  "Food & Nutrition": "1FoodNutritionFileId",
+  "French": "1FrenchFileId",
+  "General Studies": "1GeneralStudiesFileId",
+  "Geography": "1GeographyFileId",
+  "History": "1HistoryFileId",
+  "Islamic Knowledge": "1IslamicKnowledgeFileId",
+  "Kiswahili": "1KiswahiliFileId",
+  "Physics": "1PhysicsFileId"
+}
